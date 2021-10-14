@@ -52,5 +52,25 @@ namespace EncoderDecoder
                 MessageBox.Show("Could not decode the message.", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
             }
         }
+
+        private void btnCopy_Click(object sender, EventArgs e)
+        {
+            try
+            {
+                if (txtResult.Text != "")
+                {
+                    Clipboard.SetText(txtResult.Text);
+                    MessageBox.Show("Successfully copied the result to your clipboard", "Success", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                }
+                else
+                {
+                    MessageBox.Show("Please encode or decode something first", "Warning", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                }
+            }
+            catch (Exception)
+            {
+                MessageBox.Show("Could not copy the result", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+            }
+        }
     }
 }

@@ -35,6 +35,7 @@ namespace EncoderDecoder
             this.btnDecode = new System.Windows.Forms.Button();
             this.lblInfo = new System.Windows.Forms.Label();
             this.txtResult = new System.Windows.Forms.TextBox();
+            this.btnCopy = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // btnEncode
@@ -82,11 +83,22 @@ namespace EncoderDecoder
             this.txtResult.Size = new System.Drawing.Size(219, 204);
             this.txtResult.TabIndex = 5;
             // 
+            // btnCopy
+            // 
+            this.btnCopy.Location = new System.Drawing.Point(16, 290);
+            this.btnCopy.Name = "btnCopy";
+            this.btnCopy.Size = new System.Drawing.Size(219, 23);
+            this.btnCopy.TabIndex = 6;
+            this.btnCopy.Text = "Copy";
+            this.btnCopy.UseVisualStyleBackColor = true;
+            this.btnCopy.Click += new System.EventHandler(this.btnCopy_Click);
+            // 
             // frmDEcode
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(250, 297);
+            this.ClientSize = new System.Drawing.Size(250, 321);
+            this.Controls.Add(this.btnCopy);
             this.Controls.Add(this.txtResult);
             this.Controls.Add(this.lblInfo);
             this.Controls.Add(this.btnDecode);
@@ -109,6 +121,7 @@ namespace EncoderDecoder
         private System.Windows.Forms.Button btnDecode;
         private System.Windows.Forms.Label lblInfo;
         private System.Windows.Forms.TextBox txtResult;
+        private System.Windows.Forms.Button btnCopy;
     }
 }
 
