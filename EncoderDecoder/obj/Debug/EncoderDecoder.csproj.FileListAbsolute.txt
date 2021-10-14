@@ -1,0 +1,9 @@
+F:\c#\EncoderDecoder\EncoderDecoder\bin\Debug\EncoderDecoder.exe.config
+F:\c#\EncoderDecoder\EncoderDecoder\bin\Debug\EncoderDecoder.exe
+F:\c#\EncoderDecoder\EncoderDecoder\bin\Debug\EncoderDecoder.pdb
+F:\c#\EncoderDecoder\EncoderDecoder\obj\Debug\EncoderDecoder.frmDEcode.resources
+F:\c#\EncoderDecoder\EncoderDecoder\obj\Debug\EncoderDecoder.Properties.Resources.resources
+F:\c#\EncoderDecoder\EncoderDecoder\obj\Debug\EncoderDecoder.csproj.GenerateResource.cache
+F:\c#\EncoderDecoder\EncoderDecoder\obj\Debug\EncoderDecoder.csproj.CoreCompileInputs.cache
+F:\c#\EncoderDecoder\EncoderDecoder\obj\Debug\EncoderDecoder.exe
+F:\c#\EncoderDecoder\EncoderDecoder\obj\Debug\EncoderDecoder.pdb
