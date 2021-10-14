@@ -29,6 +29,7 @@ namespace EncoderDecoder
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(frmDEcode));
             this.btnEncode = new System.Windows.Forms.Button();
             this.txtText = new System.Windows.Forms.TextBox();
             this.btnDecode = new System.Windows.Forms.Button();
@@ -92,6 +93,7 @@ namespace EncoderDecoder
             this.Controls.Add(this.txtText);
             this.Controls.Add(this.btnEncode);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.Fixed3D;
+            this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "frmDEcode";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Encoder and Decoder";

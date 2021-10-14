@@ -8,3 +8,13 @@ F:\c#\EncoderDecoder\EncoderDecoder\obj\Release\EncoderDecoder.csproj.GenerateRe
 F:\c#\EncoderDecoder\EncoderDecoder\obj\Release\EncoderDecoder.csproj.CoreCompileInputs.cache
 F:\c#\EncoderDecoder\EncoderDecoder\obj\Release\EncoderDecoder.exe
 F:\c#\EncoderDecoder\EncoderDecoder\obj\Release\EncoderDecoder.pdb
+C:\Users\Administrator\Desktop\GitHub projects\Encoder-Decoder\EncoderDecoder\bin\Release\EncoderDecoder.exe.config
+C:\Users\Administrator\Desktop\GitHub projects\Encoder-Decoder\EncoderDecoder\bin\Release\EncoderDecoder.exe
+C:\Users\Administrator\Desktop\GitHub projects\Encoder-Decoder\EncoderDecoder\bin\Release\EncoderDecoder.pdb
+C:\Users\Administrator\Desktop\GitHub projects\Encoder-Decoder\EncoderDecoder\obj\Release\EncoderDecoder.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\GitHub projects\Encoder-Decoder\EncoderDecoder\obj\Release\EncoderDecoder.frmDEcode.resources
+C:\Users\Administrator\Desktop\GitHub projects\Encoder-Decoder\EncoderDecoder\obj\Release\EncoderDecoder.Properties.Resources.resources
+C:\Users\Administrator\Desktop\GitHub projects\Encoder-Decoder\EncoderDecoder\obj\Release\EncoderDecoder.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\GitHub projects\Encoder-Decoder\EncoderDecoder\obj\Release\EncoderDecoder.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\GitHub projects\Encoder-Decoder\EncoderDecoder\obj\Release\EncoderDecoder.exe
+C:\Users\Administrator\Desktop\GitHub projects\Encoder-Decoder\EncoderDecoder\obj\Release\EncoderDecoder.pdb
